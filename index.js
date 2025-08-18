@@ -137,7 +137,7 @@ const main = async () => {
 
     const formattedDate = new Date().toISOString()
 
-    await fs.writeJson('databtc.json', { updated: formattedDate, data }, { spaces: 2 })
+    await fs.writeJson('datahype.json', { updated: formattedDate, data }, { spaces: 2 })
 
     const historyFile = 'btcprice_history.json'
     let history = []
