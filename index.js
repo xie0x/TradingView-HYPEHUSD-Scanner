@@ -139,7 +139,7 @@ const main = async () => {
 
     await fs.writeJson('datahype.json', { updated: formattedDate, data }, { spaces: 2 })
 
-    const historyFile = 'btcprice_history.json'
+    const historyFile = 'hypeprice_history.json'
     let history = []
     if (await fs.pathExists(historyFile)) {
       history = await fs.readJson(historyFile)
