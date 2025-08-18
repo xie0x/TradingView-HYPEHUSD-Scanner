@@ -1,6 +1,6 @@
 # TradingView HYPEHUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 19 August 2025 at 03:18:26 (GMT+7)
+## Last updated: 19 August 2025 at 03:19:22 (GMT+7)
 ## Price Now: $43.71
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
@@ -68,7 +68,7 @@ HYPEHUSD (Hyperliquid) recommendation scanner based on real-time TradingView dat
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $40.16 | $46.08 | $55.03 | -$37.74 | $31.68 | $24.04 | -$1.01 | $0.36 | -$0.52 | -$0.64 | -$58.94 | $43.88 |
+| $40.13 | $46.04 | $55.02 | -$37.69 | $31.68 | $24.03 | -$1.01 | $0.36 | -$0.52 | -$0.64 | -$59.05 | $43.88 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
