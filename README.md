@@ -1,7 +1,7 @@
 # TradingView HYPEHUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 24 August 2025 at 23:42:02 (GMT+7)
-## Price Now: $44.56
+## Last updated: 25 August 2025 at 00:31:03 (GMT+7)
+## Price Now: $44.81
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
 HYPEHUSD (Hyperliquid) recommendation scanner based on real-time TradingView data Scanner API
@@ -68,7 +68,7 @@ HYPEHUSD (Hyperliquid) recommendation scanner based on real-time TradingView dat
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $58.23 | $71.40 | $53.34 | $46.74 | $15.00 | $17.05 | -$0.05 | $0.81 | $0.03 | $0.02 | -$0.51 | $44.38 |
+| $61.27 | $83.03 | $67.75 | $109.05 | $15.84 | $15.85 | $0.13 | $0.81 | $0.09 | $0.03 | -$0.00 | $44.66 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -76,7 +76,7 @@ HYPEHUSD (Hyperliquid) recommendation scanner based on real-time TradingView dat
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $44.11 | $43.99 | $44.09 | $44.19 | $44.04 | $44.15 | $43.83 | $44.17 | $43.55 | $42.99 | $43.64 | $43.72 |
+| $44.24 | $44.07 | $44.16 | $44.20 | $44.09 | $44.19 | $43.87 | $44.20 | $43.58 | $43.03 | $43.65 | $43.71 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
