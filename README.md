@@ -1,7 +1,7 @@
 # TradingView HYPEHUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 25 September 2025 at 09:18:33 (GMT+7)
-## Price Now: $44.45
+## Last updated: 25 September 2025 at 10:28:04 (GMT+7)
+## Price Now: $43.49
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
 HYPEHUSD (Hyperliquid) recommendation scanner based on real-time TradingView data Scanner API
@@ -12,7 +12,7 @@ HYPEHUSD (Hyperliquid) recommendation scanner based on real-time TradingView dat
 ## Recommendation
 | Stoch | WR | BBPower | UO | Ichimoku | RSI | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Neutral | Buy | Neutral | Neutral | Neutral | Sell | Sell |
+| Neutral | Neutral | Neutral | Sell | Neutral | Sell | Sell |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -68,7 +68,7 @@ HYPEHUSD (Hyperliquid) recommendation scanner based on real-time TradingView dat
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $42.54 | $18.04 | $38.03 | -$90.13 | $17.16 | $24.22 | $0.24 | -$0.51 | -$0.15 | -$0.13 | -$96.22 | $44.80 |
+| $37.46 | $1.93 | $18.32 | -$165.16 | $18.74 | $29.05 | -$0.13 | -$2.08 | -$0.31 | -$0.17 | -$99.97 | $43.90 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -76,7 +76,7 @@ HYPEHUSD (Hyperliquid) recommendation scanner based on real-time TradingView dat
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $45.27 | $45.52 | $45.36 | $45.25 | $45.53 | $45.09 | $46.18 | $45.88 | $48.08 | $48.30 | $50.32 | $52.30 |
+| $44.88 | $45.27 | $45.14 | $45.18 | $45.38 | $45.03 | $46.06 | $45.82 | $47.98 | $48.18 | $50.25 | $52.24 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
