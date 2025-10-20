@@ -1,7 +1,7 @@
 # TradingView HYPEHUSD Scanner (1H)
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-## Last updated: 20 October 2025 at 06:09:13 (GMT+7)
-## Price Now: $37.62
+## Last updated: 20 October 2025 at 07:54:20 (GMT+7)
+## Price Now: $37.04
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <h2 id="about-the-project"> :pencil: About Project</h2>
 HYPEHUSD (Hyperliquid) recommendation scanner based on real-time TradingView data Scanner API
@@ -28,7 +28,7 @@ HYPEHUSD (Hyperliquid) recommendation scanner based on real-time TradingView dat
 ## Pivot Points Classic
 | S3 | S2 | S1 | Middle | R1 | R2 | R3 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| - | $11.45 | $25.57 | $37.62 | $51.73 | $63.78 | $89.94 |
+| $17.48 | $27.80 | $32.61 | $38.13 | $42.93 | $48.45 | $58.77 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -36,7 +36,7 @@ HYPEHUSD (Hyperliquid) recommendation scanner based on real-time TradingView dat
 ## Pivot Points Fibonacci
 | S3 | S2 | S1 | Middle | R1 | R2 | R3 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $11.45 | $21.45 | $27.62 | $37.62 | $47.61 | $53.79 | $63.78 |
+| $27.80 | $31.75 | $34.18 | $38.13 | $42.07 | $44.50 | $48.45 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -44,7 +44,7 @@ HYPEHUSD (Hyperliquid) recommendation scanner based on real-time TradingView dat
 ## Pivot Points Camarilla
 | S3 | S2 | S1 | Middle | R1 | R2 | R3 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $32.48 | $34.88 | $37.28 | $37.62 | $42.08 | $44.48 | $46.87 |
+| $34.57 | $35.52 | $36.46 | $38.13 | $38.35 | $39.30 | $40.25 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -52,7 +52,7 @@ HYPEHUSD (Hyperliquid) recommendation scanner based on real-time TradingView dat
 ## Pivot Points Woodie
 | S3 | S2 | S1 | Middle | R1 | R2 | R3 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $0.43 | $11.97 | $26.60 | $38.13 | $52.76 | $64.30 | $78.93 |
+| $21.93 | $27.62 | $32.25 | $37.95 | $42.57 | $48.27 | $52.90 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -60,7 +60,7 @@ HYPEHUSD (Hyperliquid) recommendation scanner based on real-time TradingView dat
 ## Pivot Points Demark
 | S1 | Middle | R1 |
 | :---: | :---: | :---: |
-| $18.51 | $34.09 | $44.67 |
+| $30.20 | $36.92 | $40.53 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -68,7 +68,7 @@ HYPEHUSD (Hyperliquid) recommendation scanner based on real-time TradingView dat
 ## Technical Indicators
 | RSI | Stoch.K | Stoch.D | CCI20 | ADX | ADX-DI | AO | Mom | MACD | MACD | W.R | HullMA9 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $55.18 | $70.82 | $74.15 | $31.35 | $17.33 | $19.40 | $0.98 | -$0.40 | $0.43 | $0.47 | -$42.88 | $37.74 |
+| $47.26 | $44.79 | $62.79 | -$31.11 | $17.26 | $26.54 | $0.73 | -$1.16 | $0.33 | $0.44 | -$89.48 | $37.39 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -76,7 +76,7 @@ HYPEHUSD (Hyperliquid) recommendation scanner based on real-time TradingView dat
 ## EMA & SMA
 | EMA10 | SMA10 | EMA20 | SMA20 | EMA30 | SMA30 | EMA50 | SMA50 | EMA100 | SMA100 | EMA200 | SMA200 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| $37.78 | $37.99 | $37.48 | $37.40 | $37.20 | $37.09 | $36.92 | $36.45 | $37.11 | $36.60 | $38.41 | $38.03 |
+| $37.61 | $37.85 | $37.42 | $37.41 | $37.18 | $37.11 | $36.92 | $36.48 | $37.11 | $36.59 | $38.39 | $38.02 |
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
